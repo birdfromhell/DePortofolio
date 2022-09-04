@@ -20,7 +20,7 @@ const SkillsSection = () => {
 
   useEffect(() => {
     axios({
-      url: "https://hiteshpateladmin.herokuapp.com/api/skills",
+      url: "http://127.0.0.1:8000/api/skills",
       method: "GET",
     }).then((res) => {
       //   console.log(res.data);

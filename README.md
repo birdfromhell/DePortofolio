@@ -1,4 +1,3 @@
-Live at https://react-portfolio-mauve-five.vercel.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
